@@ -1,0 +1,18 @@
+{
+  "files": [],
+  "include": [],
+  "references": [
+    // Sample project 1
+    {
+      "path": "./GasProject1"
+    },
+    // Sample project 2
+    {
+      "path": "./GasProject2"
+    },
+    // Sample common component
+    {
+      "path": "./common-components/lib1"
+    }
+  ]
+}
